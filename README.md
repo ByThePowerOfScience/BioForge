@@ -6,54 +6,65 @@
 
 ---
 
-## 📁 Repository Structure
+## 📁 Included in the Archive
 
-- `plugins/`  
-  All required **MCreator plugins** needed for the workspace to function properly.
+You will receive a `.rar` archive containing two folders:
 
-- `workspace/`  
-  The **MCreator workspace**. Open this folder using MCreator 2024.2 to view or explore the mod.
+- `Plugins/`  
+  Contains required MCreator plugins.
+  
+- `BioForge/`  
+  The MCreator workspace folder.
+
+---
+
+## 📦 Installation Instructions
+
+1. **Extract the Archive**
+
+   Unpack the `.rar` file anywhere you like. You will get two folders: `Plugins` and `BioForge`.
+
+2. **Move the Plugins**
+
+   Copy everything inside the `Plugins` folder into your:
+   ```
+   [Your MCreator Installation Folder]/plugins/
+   ```
+
+3. **Move the Workspace**
+
+   Copy the `BioForge` folder into your:
+   ```
+   [Your MCreator Workspaces Folder]/
+   ```
+
+   This is usually located in:
+   - Windows: `C:\Users\[YourUser]\MCreatorWorkspaces\`
+   - macOS/Linux: `~/MCreatorWorkspaces/`
+
+4. **Open MCreator 2024.2**
+
+   - Go to `Workspaces > Open Workspace`
+   - Select `BioForge`
 
 ---
 
 ## ✅ Requirements
 
-To use this mod workspace:
-
-- ✅ **MCreator 2024.2** (strict requirement)
-- ✅ Java Development Kit (JDK) 17+
-- ✅ Internet connection (for plugin and dependency setup)
-
----
-
-## 🚀 How to View or Explore
-
-1. **Clone or download** this repository:
-   ```bash
-   git clone https://github.com/your-username/BioForge.git
-   ```
-
-2. **Install Required Plugins**:
-   - Launch MCreator 2024.2
-   - Go to `Preferences > Manage plugins`
-   - Import all `.zip` files from the `plugins/` folder
-
-3. **Open the Workspace**:
-   - From MCreator's main menu, click `Import workspace`
-   - Select the `workspace/` directory
+- **MCreator 2024.2** (strict requirement)
+- Java Development Kit (JDK) 17+
+- Internet connection (for plugin setup)
 
 ---
 
 ## 🔒 Usage Policy
 
-This project is **NOT open source** and is provided under **All Rights Reserved**.
+This project is provided under **All Rights Reserved**.
 
 - ❌ No redistribution
 - ❌ No republishing
-- ❌ No feature contributions
-- ✅ Viewing or minimal **bugfixing for server use only** is allowed
-
-If you plan to use or modify this mod for personal or server-specific purposes, do so respectfully and without redistribution.
+- ❌ No contributions accepted
+- ✅ Viewing and minimal **bugfixing for server use only** is allowed
 
 ---
 

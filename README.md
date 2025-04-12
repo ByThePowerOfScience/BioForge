@@ -8,21 +8,29 @@
 
 ## 📁 Included in the Archive
 
-You will receive a `.rar` archives each containing one folder:
+You will receive two `.rar` archives, each containing one folder:
 
 - `Plugins/`  
-  Contains required MCreator plugins.
+  Contains required MCreator plugins (uploaded directly to this repository).
   
 - `BioForge/`  
-  The MCreator workspace folder.
+  The MCreator workspace folder.  
+  🛈 **Due to GitHub’s file size limits, the workspace archive is hosted on Google Drive.**
+
+---
+
+## 🔗 Workspace Download
+
+🔽 Download the **BioForge Workspace `.rar`** from Google Drive:  
+**[Download Link Here](https://drive.google.com/file/d/1iDjoEgSPeIL8ylBhc6vZnouzZQ6FVvih/view?usp=sharing)**  
 
 ---
 
 ## 📦 Installation Instructions
 
-1. **Extract the Archive**
+1. **Extract the Archives**
 
-   Unpack the `.rar` file anywhere you like. You will get two folders: `Plugins` and `BioForge`.
+   Unpack both `.rar` files anywhere you like. You will get one folder in each: `Plugins` and `BioForge`.
 
 2. **Move the Plugins**
 
@@ -70,7 +78,7 @@ This project is provided under **All Rights Reserved**.
 
 ## 🔖 Legal
 
-**All Rights Reserved** © [JenkiMods]  
+**All Rights Reserved** © *JenkiMods*  
 Unauthorized use, modification, or distribution of any part of this project is strictly prohibited.
 
 ---

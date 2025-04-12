@@ -8,7 +8,7 @@
 
 ## 📁 Included in the Archive
 
-You will receive a `.rar` archive containing two folders:
+You will receive a `.rar` archives each containing one folder:
 
 - `Plugins/`  
   Contains required MCreator plugins.

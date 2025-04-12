@@ -76,4 +76,3 @@ Unauthorized use, modification, or distribution of any part of this project is s
 ---
 
 🧬 *BioForge — where biology meets Minecraft.*
-```
